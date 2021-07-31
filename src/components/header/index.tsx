@@ -7,9 +7,9 @@ import {HProps} from "../../data_store/interfaces";
 const AppHeader = (props: HProps) => {
   return (
     <header className={st.appHeader}>
-      <a href="/#" onClick={e=>e.preventDefault()}><img src={back} className={st.back} alt={'go to back'}/></a>
+      <a href="/" onClick={e=>e.preventDefault()}><img src={back} className={st.back} alt={'go to back'}/></a>
       <strong className={st.title}>Stations</strong>
-      <a href="/#" onClick={(e) => {
+      <a href="/" onClick={(e) => {
           e.preventDefault();
           props.onPower('');
       }}>
