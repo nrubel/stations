@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/stations/static/css/main.927c657a.chunk.css",
+    "main.js": "/stations/static/js/main.46620fd8.chunk.js",
+    "main.js.map": "/stations/static/js/main.46620fd8.chunk.js.map",
+    "runtime-main.js": "/stations/static/js/runtime-main.9c7df671.js",
+    "runtime-main.js.map": "/stations/static/js/runtime-main.9c7df671.js.map",
+    "static/js/2.1cea7133.chunk.js": "/stations/static/js/2.1cea7133.chunk.js",
+    "static/js/2.1cea7133.chunk.js.map": "/stations/static/js/2.1cea7133.chunk.js.map",
+    "static/js/3.bd7a5014.chunk.js": "/stations/static/js/3.bd7a5014.chunk.js",
+    "static/js/3.bd7a5014.chunk.js.map": "/stations/static/js/3.bd7a5014.chunk.js.map",
+    "index.html": "/stations/index.html",
+    "static/css/main.927c657a.chunk.css.map": "/stations/static/css/main.927c657a.chunk.css.map",
+    "static/js/2.1cea7133.chunk.js.LICENSE.txt": "/stations/static/js/2.1cea7133.chunk.js.LICENSE.txt",
+    "static/media/back-arrow.43695ba6.png": "/stations/static/media/back-arrow.43695ba6.png",
+    "static/media/minus.d5a22d2a.png": "/stations/static/media/minus.d5a22d2a.png",
+    "static/media/plus.7e599da6.png": "/stations/static/media/plus.7e599da6.png",
+    "static/media/radio_img@2x.bfc8ae28.png": "/stations/static/media/radio_img@2x.bfc8ae28.png",
+    "static/media/switch.659e80a3.png": "/stations/static/media/switch.659e80a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c7df671.js",
+    "static/js/2.1cea7133.chunk.js",
+    "static/css/main.927c657a.chunk.css",
+    "static/js/main.46620fd8.chunk.js"
+  ]
+}
