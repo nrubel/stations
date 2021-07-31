@@ -11,9 +11,9 @@ const AppBody = (props: BProps) => {
             {props.list.map((l, index) => (
                 <div className={st.listItemWrap}>
                     <div className={`${st.listLogo} ${props.selected === l.name ? st.active : ''}`}>
-                        <a href="#"><img className={st.upDown} src={down} alt={'down'}/></a>
+                        <a href="#" onClick={e=>e.preventDefault()}><img className={st.upDown} src={down} alt={'down'}/></a>
                         <img className={st.radioLogo} src={radioImg} alt={'logo'}/>
-                        <a href="#"><img className={st.upDown} src={up} alt={'up'}/></a>
+                        <a href="#" onClick={e=>e.preventDefault()}><img className={st.upDown} src={up} alt={'up'}/></a>
                     </div>
                     <div className={st.listItem} onClick={() => props.onSelect(props.list[index].name)}>
                         <div className={st.listName}>{l.name}</div>
